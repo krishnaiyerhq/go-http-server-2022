@@ -1,4 +1,4 @@
-module github.com/KrishnaIyer/goexamples/2_persistence
+module github.com/kicodelibrary/go-http-server-2022/2_persistence
 
 go 1.18
 

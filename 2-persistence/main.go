@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/KrishnaIyer/goexamples/2_persistence/pkg/server"
-	"github.com/KrishnaIyer/goexamples/2_persistence/pkg/server/database/bolt"
 	"github.com/gorilla/mux"
+	"github.com/kicodelibrary/go-http-server-2022/2_persistence/pkg/server"
+	"github.com/kicodelibrary/go-http-server-2022/2_persistence/pkg/server/database/bolt"
 )
 
 func main() {

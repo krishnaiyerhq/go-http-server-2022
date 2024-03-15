@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/KrishnaIyer/goexamples/2_persistence/pkg/server/database"
+	"github.com/kicodelibrary/go-http-server-2022/2_persistence/pkg/server/database"
 	bolt "go.etcd.io/bbolt"
 )
 

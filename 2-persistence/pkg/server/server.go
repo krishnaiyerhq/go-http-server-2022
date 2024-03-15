@@ -8,8 +8,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/KrishnaIyer/goexamples/2_persistence/pkg/server/database"
 	"github.com/gorilla/mux"
+	"github.com/kicodelibrary/go-http-server-2022/2_persistence/pkg/server/database"
 )
 
 var indexPage = `
